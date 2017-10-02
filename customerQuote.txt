@@ -1,0 +1,24 @@
+Quote details are generated below.
+Customer Details : Jake SISO, Purdue || QuoteTotal : 19527.79
+
+1) Details for item 10003-SHD
+Item : Bronze,Shield
+Item Price : 299.36
+Item Quantity : 5
+Type : Each
+Line Total : 1227.36
+
+2) Details for item 20005-SWD
+Item : Steel,Sword
+Item Price : 1015.29
+Item Quantity : 10
+Type : Each
+Line Total : 8325.41
+
+3) Details for item 30001-CHN
+Item : Iron,Chain
+Item Price : 3.99
+Item Quantity : 5000
+Type : LinearFeet
+Line Total : 9975.00
+
